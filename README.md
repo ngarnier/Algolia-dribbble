@@ -14,7 +14,7 @@ Because users have been used to a great experience on Google, they expect the sa
 
 Moreover, more & more users now browse the web with their smartphone. This means they’re looking for velocity, but also tolerance. *Typo-tolerance*. Of course they want to find iPhone-related products even if they typed “ihpone”. Potential customers would better spend their time reviewing a product rather than looking for it.
 
-##### *Example of a broken search with Dribbble. Frustrating, right?*
+##### Example of a broken search with Dribbble. Frustrating, right?
 ![ihpone](https://cloud.githubusercontent.com/assets/4700883/7191899/58570422-e491-11e4-9d07-4d4a4fca4804.gif)
 
 Finally, search is also about loyalty. If you can’t fulfill your users’ needs, you can’t expect them to be loyal.
@@ -40,10 +40,10 @@ It’s **crazy quick**, because you can make any search instant. Each time a use
 It’s **relevant**, because [Algolia](www.https://www.algolia.com/.com)’s users can cook their ranking formula in a snap, through the dashboard -empowering even non-developers!- or via the backend API. Thanks to that formula, they can also let the users choose how to sort the data: according to the popularity, date posted, reviews, categories, types…
 
 
-##### *Setting up what data users can search for & how it should be ranked:*
+##### Setting up what data users can search for & how it should be ranked:
 ![basic settings](https://cloud.githubusercontent.com/assets/4700883/7192069/ad5dd3e6-e492-11e4-9aec-f46819cc41c9.PNG)
 
-##### *A lot of parameters can be defined, such as the typo-tolerance criteria:*
+##### A lot of parameters can be defined, such as the typo-tolerance criteria:
 ![interpretation typo](https://cloud.githubusercontent.com/assets/4700883/7192070/ad61cfaa-e492-11e4-9123-6c8955e365ab.PNG)
 
 As a conclusion, [Algolia](www.https://www.algolia.com/.com) is the ultimate developer-oriented search engine, listening & answering to any of its users’ needs. This means constantly working on new features & integrations -the team is for instance now integrating Ionic & MongoDB. It also means making sure that every developer using [Algolia](www.https://www.algolia.com/.com) meets success, thanks to a real-time support via chat.
