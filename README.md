@@ -1,4 +1,4 @@
-#### *See the demo of Algolia with Dribbble data [here](www.ngarnier.com/algolia/index.html?#).*
+#### *See the demo of Algolia with Dribbble data [here](http://www.ngarnier.com/algolia/index.html?#).*
 
 # Your #1 frustration is over
 
