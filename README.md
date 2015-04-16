@@ -1,6 +1,4 @@
-# <a href="https://www.algolia.com/">Algolia</a>-dribbble
-
-<h1> Your #1 frustration is over </h1>
+# Your #1 frustration is over
 
 Data, data, data. Today, you can hear a lot about it and how powerful it is. Although most websites do have a lot of data, they’re missing the right tool to deliver it to you. And you’re just drowning in it.
 
