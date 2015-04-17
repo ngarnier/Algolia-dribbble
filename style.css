@@ -65,6 +65,7 @@
   }
 
   .thumbnail {
+    background-color:#f0f0f0;    
     border:none!important;
-    background-color:#f0f0f0;
+    min-height:173px;
   }
